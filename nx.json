@@ -44,5 +44,13 @@
         "watchDepsTargetName": "watch-deps"
       }
     }
-  ]
+  ],
+  "namedInputs": {
+    "sharedGlobals": [
+      "{workspaceRoot}/.github/workflows/ci.yml"
+    ],
+    "default": [
+      "sharedGlobals"
+    ]
+  }
 }
