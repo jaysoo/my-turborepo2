@@ -1,8 +1,6 @@
 "use client";
 
 import { ReactNode } from "react";
-const x: number = '1';
-
 // bump 1
 
 interface ButtonProps {
