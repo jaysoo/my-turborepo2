@@ -44,5 +44,7 @@
         "watchDepsTargetName": "watch-deps"
       }
     }
-  ]
+  ],
+  "nxCloudId": "69c42c4159a7c97bde6a9cfb",
+  "nxCloudUrl": "https://staging.nx.app"
 }
