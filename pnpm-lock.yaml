@@ -21,6 +21,9 @@ importers:
       '@nx/next':
         specifier: 22.6.1
         version: 22.6.1(@babel/core@7.29.0)(@babel/traverse@7.29.0)(@rspack/core@1.6.8(@swc/helpers@0.5.15))(@swc/helpers@0.5.15)(@zkochan/js-yaml@0.0.7)(eslint@9.39.1(jiti@2.4.2))(next@16.1.7(@babel/core@7.29.0)(react-dom@19.2.0(react@19.2.0))(react@19.2.0)(sass@1.98.0))(node-fetch@2.7.0(encoding@0.1.13))(nx@22.6.1)(react-dom@19.2.0(react@19.2.0))(react@19.2.0)(typescript@5.9.2)(vite@7.3.1(@types/node@22.15.3)(jiti@2.4.2)(less@4.5.1)(sass-embedded@1.98.0)(sass@1.98.0)(terser@5.46.1)(yaml@2.8.3))(vitest@4.1.1(@types/node@22.15.3)(vite@7.3.1(@types/node@22.15.3)(jiti@2.4.2)(less@4.5.1)(sass-embedded@1.98.0)(sass@1.98.0)(terser@5.46.1)(yaml@2.8.3)))(webpack@5.105.4)
+      '@nx/workspace':
+        specifier: 22.6.1
+        version: 22.6.1
       nx:
         specifier: 22.6.1
         version: 22.6.1
